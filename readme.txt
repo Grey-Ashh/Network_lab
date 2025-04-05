@@ -1,1 +1,1 @@
-Use prograns for lab at our own risk.
+Use programs for lab at our own risk.
